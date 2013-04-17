@@ -1,0 +1,9 @@
+name: ChestReward
+main: fr.princeben.ChestReward.Core
+version: 1.0
+author: princeben
+depend: [Vault]
+commands:
+  ChestReward:
+    description: Commandes pour ChestReward
+    usage: /<command>
